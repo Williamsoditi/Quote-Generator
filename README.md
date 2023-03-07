@@ -15,7 +15,7 @@ A random quote generator to display some quotes.
 ## Project Resources
 The following is a live link to the project's site
 
-Link : ``
+Link : [Click Here](https://williamsoditi.github.io/Quote-Generator/)
 
 ## Installation
 **Requirements**
